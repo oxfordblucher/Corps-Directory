@@ -1,10 +1,10 @@
 import axios from 'axios';
 
-export default {
+export default { 
     getEmployeeList: function() {
-        return axios.get('https://randomuser.me/api/?results=200');
+        return axios.get('https://randomuser.me/api/?results=200&nat=us');
     },
     getRandomEmployee: function() {
-        return axios.get('https://randomuser.me/api/');
+        return axios.get('https://randomuser.me/api/?nat=us');
     }
 };
