@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Corps-Directory/static/css/main.a56eca6a.chunk.css",
+    "main.js": "/Corps-Directory/static/js/main.6978bc87.chunk.js",
+    "main.js.map": "/Corps-Directory/static/js/main.6978bc87.chunk.js.map",
+    "runtime-main.js": "/Corps-Directory/static/js/runtime-main.ba8eda97.js",
+    "runtime-main.js.map": "/Corps-Directory/static/js/runtime-main.ba8eda97.js.map",
+    "static/css/2.150d169a.chunk.css": "/Corps-Directory/static/css/2.150d169a.chunk.css",
+    "static/js/2.3b40d700.chunk.js": "/Corps-Directory/static/js/2.3b40d700.chunk.js",
+    "static/js/2.3b40d700.chunk.js.map": "/Corps-Directory/static/js/2.3b40d700.chunk.js.map",
+    "index.html": "/Corps-Directory/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/Corps-Directory/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.a56eca6a.chunk.css.map": "/Corps-Directory/static/css/main.a56eca6a.chunk.css.map",
+    "static/js/2.3b40d700.chunk.js.LICENSE.txt": "/Corps-Directory/static/js/2.3b40d700.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba8eda97.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.3b40d700.chunk.js",
+    "static/css/main.a56eca6a.chunk.css",
+    "static/js/main.6978bc87.chunk.js"
+  ]
+}
